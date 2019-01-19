@@ -1,0 +1,7 @@
+check_email 700 1
+Walk_dog 800 2
+Write_emails 1100 2
+MTE100_planning 1200 2
+spin_in_chair 1300 1
+lunch 1300 1
+meeting 1400 3
