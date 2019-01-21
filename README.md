@@ -1,2 +1,2 @@
-# GENE121 Projects
+# First year C/C++ programing projects
 Collection of coding assignments
